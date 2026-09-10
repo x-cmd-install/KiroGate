@@ -6,7 +6,7 @@
 
  OpenAI & Anthropic 兼容的 Kiro IDE API 代理网关，支持 Claude Code CLI
 
-![KiroGate](https://repo.x-cmd.io/KiroGate.svg)
+![KiroGate](https://repo.x-cmd.io/KiroGate.svg?lang=zh)
 
 ## 安装
 
@@ -57,4 +57,4 @@ KiroGate 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:21:17Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:00:39Z._
