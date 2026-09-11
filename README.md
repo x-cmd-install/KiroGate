@@ -14,6 +14,18 @@
 x install KiroGate
 ```
 
+## Code insight
+
+Total: **25,032** lines of code across **45** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 19,392 | 1,271 | 2,129 | 29 |
+| TypeScript | 5,508 | 337 | 546 | 12 |
+| Json | 48 | 0 | 0 | 2 |
+| Yaml | 39 | 22 | 13 | 1 |
+| Toml | 26 | 10 | 10 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/aliom-v/KiroGate>
@@ -32,21 +44,12 @@ x install KiroGate
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 13 | 2 | 5 | 19 | 80 |
-
-## Code size
-
-Total: **25,032** lines of code across **45** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 19,392 | 1,271 | 2,129 | 29 |
-| TypeScript | 5,508 | 337 | 546 | 12 |
-| Json | 48 | 0 | 0 | 2 |
-| Yaml | 39 | 22 | 13 | 1 |
-| Toml | 26 | 10 | 10 | 1 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 0 | 0 | 3 | 0 |
+| 360d | 2025-09-16 | 0 | 13 | 2 | 5 | 19 | 80 |
+| last720d | 2024-09-21 | 0 | 13 | 2 | 5 | 19 | 96 |
 
 ## Improve this data
 
@@ -57,4 +60,4 @@ Install metadata for KiroGate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:00:39Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:24:02Z._
