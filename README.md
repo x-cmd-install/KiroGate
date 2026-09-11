@@ -34,7 +34,7 @@ Total: **25,032** lines of code across **45** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 421 · **Forks**: 104 · **Open issues**: 24 · **Contributors**: 8
+- **Stars**: 421 · **Forks**: 103 · **Open issues**: 24 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -60,4 +60,4 @@ Install metadata for KiroGate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:20:40Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:36:03Z._
