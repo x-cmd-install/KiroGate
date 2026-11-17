@@ -34,7 +34,7 @@ Total: **25,032** lines of code across **45** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 419 · **Forks**: 103 · **Open issues**: 24 · **Contributors**: 8
+- **Stars**: 418 · **Forks**: 103 · **Open issues**: 24 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -44,12 +44,12 @@ Total: **25,032** lines of code across **45** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-21 | 0 | 13 | 2 | 5 | 19 | 80 |
-| last720d | 2024-11-26 | 0 | 13 | 2 | 5 | 19 | 96 |
+| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-22 | 0 | 13 | 2 | 5 | 19 | 80 |
+| last720d | 2024-11-27 | 0 | 13 | 2 | 5 | 19 | 96 |
 
 ## Improve this data
 
@@ -60,4 +60,4 @@ Install metadata for KiroGate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:03:47Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:41:15Z._
